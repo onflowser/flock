@@ -1,4 +1,4 @@
-module onflowser/flock
+module github.com/onflowser/flock
 
 go 1.21.4
 
